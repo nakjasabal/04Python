@@ -28,3 +28,4 @@ print(i, type(i))
 # 변수와 할당을 여러개 할때는 콤마로 좌측, 우측을 구분하여 작성 
 r, g, b = "Red", "Green", "Blue"
 print(r, g, b)
+

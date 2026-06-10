@@ -18,7 +18,7 @@ print("pow(x, y)", pow(x, y))
 print("pow(x, y, z)", pow(x, y, z))
 # x를 y로 나눈 몫과 나머지를 Tuple(튜플)로 반환 
 print("divmod(x, y)", divmod(x, y))
-
+     
 '''
 수학관련된 여러가지 함수를 가지고 있는 math 모듈을 현재
 문서에 import 한 후 팩토리얼 함수를 실행한다. '''
